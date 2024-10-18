@@ -1,2 +1,2 @@
-# Traveling-Salesman-Problem-Optimization
+# Traveling Salesman Problem Optimization
 Create directory automatically
